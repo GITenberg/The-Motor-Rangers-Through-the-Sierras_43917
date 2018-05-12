@@ -1,0 +1,38 @@
+_repo: The-Motor-Rangers-Through-the-Sierras_43917
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43917-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Payson, Howard
+    - Lawton, Captain Wilbur
+    - Dexter J. Forrester
+    - West, Marvin
+    - Deering, Fremont B.
+    - Lawton, Wilbur
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2013-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Outlaws -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Sierra Nevada (Calif. and Nev.) -- Juvenile fiction'
+- !lcsh 'Sapphires -- Juvenile fiction'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+title: The Motor Rangers Through the Sierras
+url: http://www.gutenberg.org/ebooks/43917
